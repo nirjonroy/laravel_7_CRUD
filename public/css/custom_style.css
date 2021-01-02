@@ -1,0 +1,18 @@
+.head1{
+		width: 50%;
+		height: auto;
+		margin-left: 30%;
+		padding: 10%;
+		border-color: black;
+}
+.panel1{
+		width: 80%;
+		height: auto;
+		margin-left:10%;
+		padding: 0%;
+		border-color: black;
+}
+.panel-heading1{
+		background: red;
+		color:green;
+}
